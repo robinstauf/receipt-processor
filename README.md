@@ -2,7 +2,7 @@
 
 ## Description
 
-This Receipt Processor solution is designed to process JSON receipt data and calculate the amount of point awarded to each receipt. 
+This Receipt Processor solution is designed to process JSON receipt data and calculate the number of points awarded to each receipt. 
 
 ## Features
 
